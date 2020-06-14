@@ -47,6 +47,7 @@ module.exports = {
       const user = await User.create(request.body);
 
       return response.status(201).json(user);
+      console.log(err);
 
     }catch(err){
       console.log(err);
