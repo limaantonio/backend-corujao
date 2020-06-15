@@ -48,7 +48,7 @@ $ yarn start
 
 <h3>Atualizações</h3>
 <ul>
-	<li>Frontend feito React Native, <a href="https://github.com/limaantonio/frontend-corujao" target="_blank">Link Repo</a></li>
+	<li>Frontend Mobile feito React Native, <a href="https://github.com/limaantonio/frontend-corujao" target="_blank">Link Repo</a></li>
 </ul>
 
 
