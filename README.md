@@ -40,7 +40,7 @@ $ yarn start
 ```
 
 <p>
-  <a href="https://insomnia.rest/run/?label=https://github.com/thainamonteiro/BeTheHero/blob/master/Insomnia_all.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
+  <a href="https://insomnia.rest/run/?label=https://github.com/limaantonio/backend-corujao/src/insominia/Insomnia_all.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
 </p>
 
 <h3>Atualizações</h3>
