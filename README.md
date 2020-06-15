@@ -1,6 +1,6 @@
 --------------------------------------------------------------------
 <h2 align="center">
-  <img src="src/assets/capa.png" width="450" title="logo" /> <br><br>
+  <img src="src/capa.png" width="450" title="logo" /> <br><br>
 Corujão - Segurança e prevenção nas estradas.
 </h2>
 
@@ -13,9 +13,6 @@ Este repositório contém uma API para ser utilizada junto a aplicação Corujã
 ### :rocket: Tecnologias Utilizadas
 
 - [Node.JS](https://nodejs.org/en/)
-- [React Native](https://reactnative.dev/)
-- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [JS](https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript)
 
 ## 🚀 Utilização
@@ -32,13 +29,13 @@ Na sua linha de comando:
 # Clone this repository
 $ git clone 
 
-# Go into the repository
-$ cd BeTheHero/backend
+# Vá no repositorio
+$ cd backend-corujao
 
-# Install dependencies
+# Instale as dependẽncias
 $ yarn 
 
-# Run the API
+# Execute a API
 $ yarn start
 ```
 
