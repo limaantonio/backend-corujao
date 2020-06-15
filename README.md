@@ -14,6 +14,9 @@ Este repositório contém uma API para ser utilizada junto a aplicação Corujã
 
 - [Node.JS](https://nodejs.org/en/)
 - [JS](https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript)
+- [MondoDB](https://www.mongodb.com/)
+- [Autenticação JWT](https://jwt.io/)
+- [Nodemiler](https://nodemailer.com/about/)
 
 ## 🚀 Utilização
 
